@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the **HKUST NLP Group**, Hong Kong University of Science and Technology (HKUST), advised by [Prof. Junxian He](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on **natural language processing (NLP)** and **machine learning (ML)**. 
+I am a first-year Ph.D. candidate at the **HKUST NLP Group**, Hong Kong University of Science and Technology (HKUST), advised by **Prof. Junxian He**. I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024. My research focuses on **natural language processing (NLP)** and **machine learning (ML)**.
 
 My research interests lie in:
 
@@ -18,7 +18,7 @@ My research interests lie in:
 About Me
 ======
 
-I am a Ph.D. candidate (2024 – Present) at the HKUST NLP Group, Hong Kong University of Science and Technology, supervised by Prof. Junxian He, who previously advised me during my undergraduate studies at Shanghai Jiao Tong University. I received my B.Eng. from SJTU in June 2024, where I was awarded the Zhiyuan Honor Scholarship.
+I am a Ph.D. candidate (2024 – Present) in the HKUST NLP Group at the Hong Kong University of Science and Technology, supervised by Prof. Junxian He, who also previously advised me during my undergraduate studies at Shanghai Jiao Tong University. I received my B.Eng. from SJTU in June 2024, where I was awarded the Zhiyuan Honor Scholarship.
 
 Education
 ======
@@ -48,14 +48,14 @@ Awards & Honors
 Publications
 ======
 
-**First-author publications are listed first.** * denotes equal contribution is not applicable here; **bold** marks Junteng Liu as first author.
+*Junteng Liu is shown in bold. First-author papers are listed first.*
 
 * **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." *arXiv*, 2025. (First author; code available on GitHub)
 * **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding." *arXiv*, 2025. (First author; code available on GitHub — Vision4Chart)
 * **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. "On the Universal Truthfulness Hyperplane Inside LLMs." *EMNLP 2024*. (First author; code available on GitHub — Universal_Truthfulness_Hyperplane)
-* Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation." *ICML 2024*. (Co-author)
-* Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models." *NeurIPS 2023*. (Co-author)
-* Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations." *NeurIPS 2023*. (Co-author)
+* Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation." *ICML 2024*.
+* Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models." *NeurIPS 2023*.
+* Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations." *NeurIPS 2023*.
 
 See the [Publications](/publications/) page for the full structured list, and find all articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
